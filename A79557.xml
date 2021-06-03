@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Church-incense: or Divine ejaculations: composed by that eminent and faithful servant of God, Mr. Hen. Church, published since his death by his son, Mr. N.C. Mr. of Arts of Emanuel Colledge in Cambridge.</title>
+            <author>Church, Hen. (Henry), fl. 1636-1638.</author>
+         </titleStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79557</idno><idno type="EEBO-CITATION">99867849</idno>
+  <idno type="VID">170064</idno>
+  <idno type="EEBO-PROQUEST">2240949109</idno>
+  
+            <idno type="STC">Wing C3986</idno>
+            <idno type="STC">Thomason E1535_3</idno>
+            <idno type="STC">ESTC R208933</idno>
+            <idno type="PROQUEST">99867849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867849e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170064)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 195:E1535[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Church-incense: or Divine ejaculations: composed by that eminent and faithful servant of God, Mr. Hen. Church, published since his death by his son, Mr. N.C. Mr. of Arts of Emanuel Colledge in Cambridge.</title>
+                  <author>Church, Hen. (Henry), fl. 1636-1638.</author>
+                  <author>Church, Nathanaell.</author>
+               </titleStmt>
+               <extent>[14], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Rothwell at the Fountain and Bear in Cheap-side.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August. 3 1654"; the second 5 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170064:1"/>
+            <p>
+               <hi>CHURCH-INCENSE:</hi> OR DIVINE EJACULATIONS:</p>
+            <p>Composed by that eminent and faith<g ref="char:EOLunhyphen"/>ful Servant of God, Mr. <hi>Hen. Church,</hi> published since his death by his Son, Mr. <hi>N.C.</hi> Mr. of Arts of <hi>EMANUEL</hi> Colledge in <hi>CAMBRIDGE.</hi>
+            </p>
+            <q>
+               <p>My heart is enditing a good matter, &amp;c.</p>
+               <bibl>
+                  <hi>Psalm 45.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For we have our Conversation in the Heavens.</p>
+               <bibl>
+                  <hi>Philip. 3.20.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>Democrates.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>'Tis the part of a Divine soul ever to minde some good thing.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Rothwell</hi> at the Fountain and Bear in Cheap-side. 1655.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:170064:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>EDM. CALAMY.</signed>
+            </closer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:170064:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170064:3"/>
+            <pb facs="tcp:170064:3"/>
+            <head>To the Worshipfull THO. ARNOLD <hi>Esquire,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE reason <hi>(Worthy Sir)</hi> why this Piece of Mr. <hi>Henry Church</hi> comes of no lesse errand, then to call you Patron, is ma<g ref="char:EOLhyphen"/>nifold: but more-es<g ref="char:EOLhyphen"/>pecially twofold.</p>
+            <p n="1">
+               <pb facs="tcp:170064:4"/> 1. The Author there<g ref="char:EOLhyphen"/>of was your <hi>intimate</hi> and <hi>familiar</hi> Associate. He was <hi>great</hi> with you: You were <hi>good</hi> to him.</p>
+            <p n="2">2. The work it selfe is choice. He left <hi>many</hi> very <hi>rare</hi> and <hi>precious</hi> thoughts turn'd into inke. <hi>This</hi> is the very <hi>Quintessence</hi> of them all. As for <hi>him, Who</hi> was ever so <hi>sad</hi> for his de<g ref="char:EOLhyphen"/>parture, as your <hi>selfe?</hi>
+            </p>
+            <p>O <hi>surpassing Love!</hi> O right <hi>David</hi> and <hi>Jona<g ref="char:EOLhyphen"/>than!</hi>
+               <pb facs="tcp:170064:4"/>O <hi>my noble</hi> Friend, God <hi>can,</hi> and God <hi>alone</hi> can retribute your fa<g ref="char:EOLhyphen"/>vourable Courtesies to your loving Antece<g ref="char:EOLhyphen"/>dent now in Heaven, and his living Rela<g ref="char:EOLhyphen"/>tives yet on Earth.</p>
+            <p>Behold, eminent Sir, your <hi>near</hi> &amp; <hi>dear</hi> friend <hi>once</hi> dead, but alive <hi>a<g ref="char:EOLhyphen"/>gain</hi> and <hi>again.</hi>
+            </p>
+            <p>Behold him yet a<g ref="char:EOLhyphen"/>live, <hi>tum Libris, tum Li<g ref="char:EOLhyphen"/>beris;</hi> in the off-spring of his <hi>Minde,</hi> and of his <hi>Body.</hi>
+            </p>
+            <pb facs="tcp:170064:5"/>
+            <p> Behold him <hi>alive</hi> here, <hi>sighing</hi> after his <hi>Creator, panting</hi> after his <hi>Redee<g ref="char:EOLhyphen"/>mer, breathing</hi> after his <hi>Comforter.</hi>
+            </p>
+            <p>Behold him <hi>alive, con<g ref="char:EOLhyphen"/>versing</hi> with you <hi>a new;</hi> helping you to converse with the <hi>Lord</hi> of <hi>Life,</hi> &amp; <hi>teaching</hi> others to <hi>live.</hi>
+            </p>
+            <p>Accept of this my <hi>poor</hi> thanks for your <hi>Worships rich</hi> love unto the deceased Author.</p>
+            <p>Accept it also as a <hi>cordial</hi> Congratulatory
+<pb facs="tcp:170064:5"/>to your Worship of that favour you have obtained of the <hi>LORD</hi> lately. For so <hi>Solomon</hi> terms it, <hi>Prov.</hi> 18.22.</p>
+            <p>The most high God prosper, dignify, blesse, and sanctify your most <hi>worthy selfe,</hi> your <hi>vertu<g ref="char:EOLhyphen"/>ous</hi> and <hi>much-honoured</hi> Consort, the Lady ANNE ELDRED: your <hi>pious</hi> and <hi>learned</hi> Kins<g ref="char:EOLhyphen"/>man, Mr. GEO. AR<g ref="char:EOLhyphen"/>NOLD (whose names (after your <hi>own</hi> in chief)
+<pb facs="tcp:170064:6"/>may adorne not only <hi>my Epistle,</hi> but also <hi>Gods Gospel</hi>) and all your Wor<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dear Relations with <hi>all manner</hi> of <hi>exter<g ref="char:EOLhyphen"/>nal, internal, eternal</hi> Fe<g ref="char:EOLhyphen"/>licity. This is the <hi>un<g ref="char:EOLhyphen"/>feigned</hi> Apprecation and Heart-wish of</p>
+            <closer>
+               <signed>YOUR WORSHIPS<lb/> Unworthy Servant<lb/> in the Lord,<lb/> NAT. CHURCH.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170064:6"/>
+            <head>IMPARTIAL READERS,</head>
+            <p>
+               <seg rend="decorInit">I</seg> Appeal to <hi>your</hi> own con<g ref="char:EOLhyphen"/>sciences, What felicity <hi>can</hi> there be on <hi>this side</hi> Eternity comparable to the <hi>Communion of Saints;</hi> whether with <hi>GOD</hi> by Prayer, with <hi>each other</hi> by Conference, or with our <hi>own souls</hi> by Divine Meditati<g ref="char:EOLhyphen"/>ons?</p>
+            <p>Let Men and Angels judg, if there be any Heaven on
+<pb facs="tcp:170064:7"/>Earth parallel to a <hi>celestial</hi> emprovement of <hi>terrestial</hi> E<g ref="char:EOLhyphen"/>mergencies.</p>
+            <p>As for the worth and excel<g ref="char:EOLhyphen"/>lency of an <hi>Ejaculatory</hi> spirit, it is of <hi>weighty</hi> concerne to <hi>all</hi> people, at all times, in <hi>all</hi> places, on <hi>all</hi> occasions. And (as the Author <hi>himself</hi> writes, these <hi>up-dartings</hi> of soul are not only <hi>expedient</hi> upon <hi>extra<g ref="char:EOLhyphen"/>ordinary</hi> account: <q>As when a Christian comes before a <hi>wicked</hi> Magistrate, to <hi>pray</hi> in <hi>heart,</hi> LORD, <hi>give me courage, a mouth, and wisdom,</hi> &amp;c. When <hi>none perceive,</hi> &amp; we cannot <hi>pray solemnly.</hi> At the <hi>hour of death,</hi> when the <hi>heart</hi> is on<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:170064:7"/>
+                  <hi>alive,</hi> then to pray with <hi>that heart.</hi> But also upon every <hi>ordinary</hi> occasion; as when we <hi>awake</hi> with GOD, and go to <hi>rest</hi> with him; <hi>lift<g ref="char:EOLhyphen"/>ing up</hi> our hearts and mind to him. VVhen we go <hi>forth,</hi> return <hi>home;</hi> at <hi>Meat,</hi> at <hi>work; alone,</hi> in <hi>company.</hi> These holy desires do shew that there is spiritual life in us.</q>
+            </p>
+            <p>Mr. <hi>Wil. Struther,</hi> in his Christian Observations, hath this <hi>notable</hi> passage, <q>So long (sayes he) as there is Evil in the world, Malice in Satan, VVeakness in our selves, and Goodness in God, we cannot want matter of continual prayer.</q>
+            </p>
+            <pb facs="tcp:170064:8"/>
+            <p>
+               <hi>Mr. Tho. Cobbet</hi> of <hi>New-England,</hi> in his new-extant Treatise discourses of Ejacula<g ref="char:EOLhyphen"/>tions in <hi>special,</hi> very <hi>rarely;</hi> &amp; of Prayer in <hi>general,</hi> most <hi>pi<g ref="char:EOLhyphen"/>ously</hi> and <hi>copiously.</hi>
+            </p>
+            <p>
+               <hi>Mr. Tho. Fuller</hi> in his <hi>Good thoughts in bad times,</hi> and more <hi>good thoughts in worse times,</hi> treats of the <hi>Use</hi> and <hi>Priviledg</hi> of <hi>EJACULA<g ref="char:EOLhyphen"/>TIONS</hi> very <hi>acutely.</hi> And in<g ref="char:EOLhyphen"/>deed that whole <hi>Enchiridion</hi> of his has an <hi>up-darting</hi> ten<g ref="char:EOLhyphen"/>dency, and <hi>points</hi> whither he is <hi>bound.</hi>
+            </p>
+            <p>
+               <hi>Dr. Hall</hi> of <hi>Exon</hi> has done <hi>much</hi> this way in his <hi>Vows, Meditations</hi> and <hi>Soliloquies.</hi> The variety of Writers that
+<pb facs="tcp:170064:8"/>have <hi>steered</hi> this course with their Pens, I must <hi>wave,</hi> lest the Epistle sink the Book.</p>
+            <p>Here it is, <hi>Christian</hi> Friends: If you reap any Counsel or Con<g ref="char:EOLhyphen"/>solation therefrom, let the LORD have your <hi>praises,</hi> and let <hi>him</hi> have your <hi>Prayers,</hi> who wishes you <hi>All</hi> better then <hi>himself.</hi>
+            </p>
+            <closer>
+               <signed>Nathanael Church.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:170064:9"/>
+            <head>The Contents.</head>
+            <list>
+               <item>1. <hi>What these holy Eja<g ref="char:EOLhyphen"/>culations are?</hi>
+               </item>
+               <item>2. <hi>Who have had these E<g ref="char:EOLhyphen"/>jaculations?</hi>
+               </item>
+               <item>3. <hi>What doth hinder these Ejaculations.</hi>
+               </item>
+               <item>4. <hi>How to obtain, these E<g ref="char:EOLhyphen"/>jaculations?</hi>
+               </item>
+               <item>5. <hi>Scruples removed concer<g ref="char:EOLhyphen"/>ning Ejaculations.</hi>
+               </item>
+               <item>6. <hi>Uses Applicatory for E<g ref="char:EOLhyphen"/>dification.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:170064:9"/>
+            <head>OF Church-Incense, OR <hi>Divine Ejaculations.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>First, what these ho<g ref="char:EOLhyphen"/>ly Ejaculations are.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hey are a <hi>Dart<g ref="char:EOLhyphen"/>ing-up</hi> of our Thoughts to the LORD: or <hi>secret Passages</hi> between the
+<pb n="2" facs="tcp:170064:10"/>
+                  <hi>Soul</hi> and CHRIST.</p>
+               <p>They are <hi>short</hi> (but <hi>sweet) Prayers;</hi> rather <hi>cordial,</hi> then <hi>vocal,</hi> i. e. more from the <hi>Heart,</hi> then the <hi>Voice.</hi>
+               </p>
+               <p>The word is taken from a <hi>darting forth:</hi> because the Heart hath <hi>recourse</hi> to GOD.</p>
+               <p>The Latine word <hi>Ejacu<g ref="char:EOLhyphen"/>latio</hi> is a <hi>casting a farre off: Ejaculator</hi> is one that <hi>throweth a Dart,</hi> or <hi>stingeth</hi> a <hi>Stone,</hi> &amp;c.</p>
+               <p>To <hi>Ejaculate</hi> is to <hi>mount up</hi> to Heaven; to have <hi>se<g ref="char:EOLhyphen"/>cret recourse</hi> to the <hi>most high;</hi> to have <hi>sweet com<g ref="char:EOLhyphen"/>munion</hi> with Him, who is <hi>invisible.</hi>
+               </p>
+               <pb n="3" facs="tcp:170064:10"/>
+               <p>
+                  <hi>Holy Ejaculations</hi> are <hi>the breath of the Soul.</hi>
+               </p>
+               <p>The more a man hath of <hi>these,</hi> the more <hi>heaven<g ref="char:EOLhyphen"/>ly</hi> he is, and <hi>acquainted</hi> with the <hi>Almighty.</hi>
+               </p>
+               <p>So much for <hi>what Eja<g ref="char:EOLhyphen"/>culations are.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>Secondly, Who have had these <hi>Ejaculati<g ref="char:EOLhyphen"/>ons.</hi>
+               </head>
+               <p n="1">1. DAVID had them. <hi>Psalm</hi> 25.1. <hi>Unto thee O LORD, do I lift my Soul. Soul</hi> is the <hi>Desire.</hi>
+               </p>
+               <p n="2">2. MOSES had them. <hi>Exod.</hi> 14.15. <hi>Why cryest thou to me,</hi> saith GOD. Ex<g ref="char:EOLhyphen"/>positors
+<pb n="4" facs="tcp:170064:11"/>render it, He cry<g ref="char:EOLhyphen"/>ed with <hi>inward groanings.</hi>
+               </p>
+               <p n="3">3. ABRAHAM'S <hi>Ser<g ref="char:EOLhyphen"/>vant</hi> had them. <hi>Gen.</hi> 24.45. He prayed <hi>in his Heart.</hi> 'Tis said it was <hi>cum Animo,</hi> with his <hi>minde:</hi> therefore <hi>inwardly,</hi> as An<g ref="char:EOLhyphen"/>cient Commentators note.</p>
+               <p n="4">4. NEHEMTAH had them. <hi>Nehem.</hi> 2.4. <hi>So I prayed to the GOD of Hea<g ref="char:EOLhyphen"/>ven.</hi> &amp;c.</p>
+               <p>The place shews, it was an <hi>Ejaculation.</hi>
+               </p>
+               <p n="5">5. THE LORD JESUS had these holy <hi>Ejaculati<g ref="char:EOLhyphen"/>ons John</hi> 11.33. he <hi>groaned</hi> in the Spirit and was trou<g ref="char:EOLhyphen"/>bled.</p>
+               <pb n="5" facs="tcp:170064:11"/>
+               <p> And <hi>v.</hi> 38. <hi>Groaning</hi> in Himself he came to the Grave.</p>
+               <p>
+                  <hi>Verse</hi> 41. He thanked his Father, who had <hi>heard</hi> Him.</p>
+               <p>Now GOD hears the <hi>Desires, Psalm</hi> 10.17.</p>
+               <p>He searches the <hi>Heart,</hi> and knowes the minde of the Spirit. <hi>Romans</hi> 8.27.</p>
+               <p>Our <hi>groanings</hi> are not hid from Him <hi>Psalm</hi> 38.9.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="6" facs="tcp:170064:12"/>
+               <head>Thirdly, What doth <hi>hinder Ejaculations.</hi>
+               </head>
+               <p>In General, <hi>All sinne.</hi> For That <hi>separates</hi> our Souls from GOD.</p>
+               <p>
+                  <hi>Isay</hi> 59.2. <hi>But your ini<g ref="char:EOLhyphen"/>quities have separated be<g ref="char:EOLhyphen"/>tween you and your GOD: and your sinnes have hid his Face from you, that He will not heare.</hi>
+               </p>
+               <p>As Mudd and Stones in a Spring do hinder the vent of Water from issu<g ref="char:EOLhyphen"/>ing forth: So our Sinnes do hinder our <hi>heavenly De<g ref="char:EOLhyphen"/>sires</hi> and quell our <hi>Souls.</hi>
+               </p>
+               <pb n="7" facs="tcp:170064:12"/>
+               <p> Sin <hi>disables</hi> a man from <hi>looking-upward. Psalm</hi> 40.12.</p>
+               <p>But in Particular, there are <hi>some</hi> sinnes, which do <hi>much</hi> hinder our converse with GOD, as,</p>
+               <p n="1">1. <hi>Covetousness. A gree<g ref="char:EOLhyphen"/>die desire of Earthly things.</hi> This is as <hi>Bird-lime</hi> to clog the Soul and hinder it from mounting <hi>upwards.</hi>
+               </p>
+               <p>They that <hi>mind earthly things</hi> are none of those that <hi>have their conversation in Heaven.</hi> Phil. 3.19, 20.</p>
+               <p n="2">2. <hi>Pride</hi> of Heart.</p>
+               <p>GOD <hi>resisteth the Proud,</hi> 1 Peter 5.5. and is not
+<pb n="8" facs="tcp:170064:13"/>
+                  <hi>conversant</hi> with them: They have no <hi>recourse</hi> to GOD, no <hi>acquaintance</hi> or <hi>communion</hi> with Him.</p>
+               <p>They <hi>seek not</hi> GOD. <hi>Psalm</hi> 10.4.</p>
+               <p>And GOD beholds them a <hi>farr off.</hi> Psalm. 138.6.</p>
+               <p n="3">3. Sinnes against <hi>con<g ref="char:EOLhyphen"/>science</hi> do much hinder our sweet converse with GOD: They <hi>dead</hi> and <hi>damp</hi> our Spirits.</p>
+               <p>A <hi>dull</hi> Instrument <hi>cutts not:</hi> How should a <hi>dull</hi> Spirit, that is <hi>not cherished,</hi> be active and <hi>lively?</hi>
+               </p>
+               <p>But a <hi>good conscience</hi> makes us to <hi>joy</hi> and <hi>rejoyce</hi> in GOD. 2 <hi>Cor.</hi> 1.12.</p>
+               <p n="4">
+                  <pb n="9" facs="tcp:170064:13"/> 4. <hi>Excessive eating and drinking</hi> dulls the Spirit exceedingly, and makes it <hi>heavy</hi> and <hi>unwieldy.</hi>
+               </p>
+               <p>They, whose GOD is their <hi>Belly,</hi> do <hi>minde earth<g ref="char:EOLhyphen"/>ly things.</hi> But <hi>We</hi> must have our conversation a<g ref="char:EOLhyphen"/>bove the Earth. <hi>Philip</hi> 3.19, 20.</p>
+               <p n="5">5. <hi>Malice and rancour</hi> hinder our ejaculatorie de<g ref="char:EOLhyphen"/>votion. There can bee no <hi>sweet</hi> Recourse to GOD, where is <hi>bitter Malice</hi> to<g ref="char:EOLhyphen"/>wards Men, and <hi>revenge<g ref="char:EOLhyphen"/>full</hi> Desires. <hi>Gen. ch.</hi> 4. <hi>verse</hi> 4, 8, 16. <hi>Matth.</hi> 5.23.24.</p>
+               <p n="6">6. <hi>Conformity to the
+<pb n="10" facs="tcp:170064:14"/>World</hi> breaks our Ac<g ref="char:EOLhyphen"/>quaintance with GOD and the <hi>Godly.</hi> 2 <hi>Tim.</hi> 4.10. <hi>Demas hath forsaken Me, having loved this present World.</hi>
+               </p>
+               <p>
+                  <hi>Following the corruptions of the Times</hi> looses our Friendship with GOD, and makes us <hi>estranged</hi> from Him; from Delight in Him, and Communion with him.</p>
+               <p>
+                  <hi>James</hi> 4.4. <hi>Know ye not, that the Amity of the World is Enmitie with GOD?</hi>
+               </p>
+               <p>So much Sweetnesse <hi>gained</hi> in the World: so much sweetnesse <hi>lost</hi> in GOD.</p>
+               <p n="7">
+                  <pb n="11" facs="tcp:170064:14"/> 7. <hi>Neglect of holy Du<g ref="char:EOLhyphen"/>ties,</hi> as Reading, Hearing, Conference, Meditation, Prayer, Preparation for the Sabbath, and Keeping it <hi>holy,</hi> &amp;c.</p>
+               <p>The <hi>holy Fire</hi> goes out, when this <hi>heavenly Fewel</hi> failes. 1 <hi>Thes.</hi> 5.16, 17, 18, 19, 20, verses com<g ref="char:EOLhyphen"/>pared together.</p>
+               <p n="8">8. <hi>Coldnesse in prayer at other times.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 12.11. <hi>Fervent in Spirit, serving the LORD.</hi>
+               </p>
+               <p>For as there is a Sound <hi>after</hi> Bells have ringed, and Instruments have tuned: so Ejaculati<g ref="char:EOLhyphen"/>ons
+<pb n="12" facs="tcp:170064:15"/>do <hi>follow</hi> our Devo<g ref="char:EOLhyphen"/>tions; which being but <hi>colde,</hi> our Ejaculations ei<g ref="char:EOLhyphen"/>ther do <hi>slack,</hi> or <hi>cease.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>Fourthly, <hi>How to ob<g ref="char:EOLhyphen"/>tain these Divine E<g ref="char:EOLhyphen"/>jaculations.</hi>
+               </head>
+               <p>The <hi>Helps</hi> to them are such as <hi>these.</hi>
+               </p>
+               <p n="1">1. We must deny our <hi>selves:</hi> so shall we be more fit for <hi>converse with GOD.</hi>
+               </p>
+               <p>
+                  <hi>Amos</hi> 3.3. <hi>Can two walk together except they be agreed?</hi>
+               </p>
+               <p n="2">2. We must <hi>pray</hi> and
+<pb n="13" facs="tcp:170064:15"/>
+                  <hi>deavour</hi> to be <hi>new-born:</hi> For the <hi>unregenerate</hi> have no converse with GOD.</p>
+               <p>1 <hi>John</hi> 1.6. <hi>If we say that we have Fellowship with Him, and walk in darknesse, we lye and do not the truth.</hi>
+               </p>
+               <p n="3">3. We must <hi>nourish Faith. By Faith,</hi> wee have <hi>sweet</hi> Recourse to <hi>God,</hi> and <hi>lift up</hi> our souls to Him in whom wee do believe.</p>
+               <p>2 <hi>Tim.</hi> 1.12. <hi>Psal.</hi> 121.1, 2.</p>
+               <p n="4">4. We must <hi>perfect our Love.</hi>
+               </p>
+               <p>For our Love carries our Hearts to the <hi>Object be<g ref="char:EOLhyphen"/>loved.</hi>
+               </p>
+               <pb n="14" facs="tcp:170064:16"/>
+               <p>
+                  <hi>Judg.</hi> 16.15. <hi>How canst thou say, I love thee, when thine Heart is not with me?</hi> And <hi>verse</hi> 16, <hi>Hee told her all his Heart.</hi>
+               </p>
+               <p>Lovers have <hi>secret passages, unknown to others:</hi> So it is between the <hi>Lord</hi> and a Soul <hi>inflamed</hi> with an <hi>holy Love. Psalm</hi> 25.14.</p>
+               <p n="5">5. We must <hi>make choice of heavenly societie, and take time for heavenly Exercises.</hi>
+               </p>
+               <p>The way to have Communion with GOD is to have Communion with the <hi>godlie.</hi>
+               </p>
+               <p>1 <hi>John</hi> 1.6, 7.</p>
+               <pb n="15" facs="tcp:170064:16"/>
+               <p> The way to <hi>delight</hi> our selves in the LORD, is to delight in his <hi>Saints,</hi> in his <hi>Sabbaths,</hi> in his <hi>Ser<g ref="char:EOLhyphen"/>vices.</hi> Psalm 16.1.2. Isa. 58. end.</p>
+               <p n="6">6. We must <hi>check our Hearts for their dul<g ref="char:EOLhyphen"/>ness,</hi> and <hi>bewaile</hi> our for<g ref="char:EOLhyphen"/>getfulnesse of GOD, and our <hi>deadnesse</hi> of Spirit.</p>
+               <p>We must chide our Soules, as the Marriners did <hi>Jonas.</hi>
+               </p>
+               <p>
+                  <hi>Jonas</hi> 1.6. <hi>What mean<g ref="char:EOLhyphen"/>est thou, O sleeper? Arise, call upon thy GOD.</hi>
+               </p>
+               <p>We must make use of <hi>outward occasions</hi> to force our Minds Christ-ward.</p>
+               <pb n="16" facs="tcp:170064:17"/>
+               <p>
+                  <hi>VVe are to mount up<g ref="char:EOLhyphen"/>ward by striving. Nothing is easy and excellent.</hi>
+               </p>
+               <p n="7">7. We must <hi>keep a narrow VVatch over our Thoughts.</hi>
+               </p>
+               <p>Look <hi>often</hi> to the Temper and Disposition of the INNER-MAN.</p>
+               <p>Examine the Heart of<g ref="char:EOLhyphen"/>ten: then <hi>elevate</hi> the Soul <hi>occasionally</hi> by <hi>secret</hi> ac<g ref="char:EOLhyphen"/>knowledgments of sinne, and <hi>earnest</hi> Desires of Grace.</p>
+               <p>Psalm 4.4. <hi>Commune with your own Heart upon your Bed, &amp;c.</hi>
+               </p>
+               <p>Lam. 3.40. <hi>Let us search and try our wayes, and
+<pb n="17" facs="tcp:170064:17"/>turne again unto the LORD.</hi>
+               </p>
+               <p n="8">8. We must <hi>inure our Hearts to secret praises for particular Mercies.</hi>
+               </p>
+               <p>When we have received a Blessing, we should with speed prayse GOD for it <hi>secretly,</hi> before wee do it <hi>solemnly.</hi>
+               </p>
+               <p>We must endeavour to be <hi>much-affected</hi> with <hi>Gods</hi> Favours: To be <hi>quick</hi> in Returne, and <hi>often</hi> Thank<g ref="char:EOLhyphen"/>full: To be <hi>evermore</hi> bes<g ref="char:EOLhyphen"/>sing and praising the LORD.</p>
+               <p>This is the way to <hi>have our Conversation in the Hea<g ref="char:EOLhyphen"/>vens.</hi> Phil. 3.20.</p>
+               <pb n="18" facs="tcp:170064:18"/>
+               <p> And to be <hi>still with God,</hi> Psalm 139.18.</p>
+               <p n="9">9. We must <hi>Cherish and feed holy Motions.</hi>
+               </p>
+               <p>
+                  <hi>Quench not the Spirit,</hi> 1 Thes. 5.19.</p>
+               <p>But <hi>Stir-up Grace.</hi> 2 <hi>Tim.</hi> 1.6.</p>
+               <p>Put in Execution <hi>holy motions.</hi> Defer not, Delay no Time.</p>
+               <p>This is the way to <hi>pre<g ref="char:EOLhyphen"/>serve</hi> the INWARD<g ref="char:EOLhyphen"/>MAN: to attain to a <hi>right</hi> Temper, and to be <hi>much</hi> in <hi>Ejaculations.</hi>
+               </p>
+               <p n="10">10. We must <hi>diligent<g ref="char:EOLhyphen"/>ly observe GODS dayly Pro<g ref="char:EOLhyphen"/>vidence.</hi>
+               </p>
+               <p>
+                  <hi>If we will give the LORD</hi>
+                  <pb n="19" facs="tcp:170064:18"/>our <hi>Hearts,</hi> our <hi>Eyes</hi> then must <hi>observe his ways,</hi> Prov. 23.26.</p>
+               <p>We should not <hi>incon<g ref="char:EOLhyphen"/>siderately</hi> let slip any <hi>re<g ref="char:EOLhyphen"/>markable</hi> Occurrences of GODS Power, Wisedom and Goodness to our <hi>selves</hi> or <hi>others.</hi>
+               </p>
+               <p>If we ponder and me<g ref="char:EOLhyphen"/>ditate how GGD <hi>hears</hi> our Prayers, <hi>answers</hi> our Doubts, <hi>relieves</hi> our wants, <hi>prevents</hi> our Fears; Wee shall not want <hi>Occasions,</hi> if we want not <hi>Hearts</hi> to lift up.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="20" facs="tcp:170064:19"/>
+               <head>Fifthly some Scruples Resolved concern<g ref="char:EOLhyphen"/>ing <hi>Ejaculations.</hi>
+               </head>
+               <div n="1" type="scruple">
+                  <head>Scruple 1.</head>
+                  <p>
+                     <hi>May not a Christian con<g ref="char:EOLhyphen"/>tent himself with these E<g ref="char:EOLhyphen"/>jaculations, and use no Mor<g ref="char:EOLhyphen"/>ning, nor Evening Sacri<g ref="char:EOLhyphen"/>fice?</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>No. For GOD must be glorified with our <hi>Bo<g ref="char:EOLhyphen"/>dies,</hi> as well as with our <hi>Spirits:</hi> 1 Cor. 6.20.</p>
+                  <p>And our <hi>Mouths</hi> must shew forth his Praise: <hi>Psal.</hi> 51.15.</p>
+               </div>
+               <div n="2" type="scruple">
+                  <pb n="21" facs="tcp:170064:19"/>
+                  <head>Scruple 2.</head>
+                  <p>
+                     <hi>Where are we in the Scrip<g ref="char:EOLhyphen"/>ture commanded to pray in our Families?</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>'Tis gathered by sound Consequence and good Example.</p>
+                  <p>
+                     <hi>Joshuah</hi> and his House would <hi>serve the LORD.</hi> Josh. 24.15.</p>
+                  <p>To <hi>serve,</hi> is to <hi>wor<g ref="char:EOLhyphen"/>ship:</hi> Exod. 20.5.</p>
+                  <p>To <hi>worship,</hi> is to <hi>pray:</hi> John 9.31.</p>
+                  <p>So then, <hi>Joshuah</hi> and his House would <hi>pray.</hi>
+                  </p>
+                  <p>So CHRIST and his Family prayed.</p>
+                  <pb n="22" facs="tcp:170064:20"/>
+                  <p> And a Curse is prayed for upon the Families that call not upon GOD. Jer. 10. last.</p>
+               </div>
+               <div n="3" type="scruple">
+                  <head>Scruple 3</head>
+                  <p>
+                     <hi>Have not the Unregene<g ref="char:EOLhyphen"/>rate these Ejaculations? We see many good desires come from them:</hi> as,</p>
+                  <p>
+                     <hi>Blessed be thou of the LORD,</hi> Judges 17.2.</p>
+                  <p>
+                     <hi>Let me dy the death of the Righteous.</hi> Numb. 23.10.</p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>They may have <hi>Flashes,</hi> as sparks falling on the Sea: they are <hi>soon</hi> out: they differ from the Rege<g ref="char:EOLhyphen"/>nerate.</p>
+                  <p n="1">
+                     <pb n="23" facs="tcp:170064:20"/> 1. In the <hi>rise</hi> of them; <hi>Worldly</hi> Hopes, or Fears cause them: In the <hi>Regene<g ref="char:EOLhyphen"/>rate</hi> they are raised by <hi>Gods Spirit:</hi> Romans 8.26.</p>
+                  <p>They arise out of Love and Respect to <hi>God: Psal.</hi> 18.1.</p>
+                  <p n="2">2. In the <hi>Unregene<g ref="char:EOLhyphen"/>rate</hi> they are only <hi>good wishes.</hi> 1 Sam. 15.13.</p>
+                  <p>In the <hi>Godly</hi> they are <hi>real</hi> Prayers. 1 Sam. 1.12, 13.</p>
+                  <p n="3">3. In the <hi>unregene<g ref="char:EOLhyphen"/>rate</hi> they are <hi>temporarie;</hi> soon gone:</p>
+                  <p>In the <hi>Godly</hi> they are <hi>ha<g ref="char:EOLhyphen"/>bitual.</hi> Psal. 34.1. Isai. 26.9.</p>
+                  <p n="4">
+                     <pb n="24" facs="tcp:170064:21"/> 4. In the <hi>unregenerate</hi> they come onely from the <hi>Lips,</hi> and so may be <hi>custo<g ref="char:EOLhyphen"/>marie: Jer.</hi> 12.2.</p>
+                  <p>In the <hi>Regenerate</hi> they come from the <hi>Heart.</hi> Psal. 25.1.</p>
+                  <p>And so are more <hi>con<g ref="char:EOLhyphen"/>stant,</hi> Job. 27.10. Psalm 108:1.</p>
+               </div>
+               <div n="4" type="scruple">
+                  <head>Scruple 4.</head>
+                  <p>
+                     <hi>Do not some attain this holy temper, that they walk thus with GOD without interrup<g ref="char:EOLhyphen"/>tion?</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>Those in Heaven do so. But on Earth we have the <hi>first-fruits</hi> only.</p>
+                  <pb n="25" facs="tcp:170064:21"/>
+                  <p> As here we see <hi>darkly,</hi> 1 Cor. 13.12. <hi>&amp;c,</hi>
+                  </p>
+                  <p>So we Converse with <hi>God</hi> but <hi>weakly:</hi> Mat. 26.41.</p>
+                  <p>We have but <hi>little</hi> Re<g ref="char:EOLhyphen"/>course to <hi>God,</hi> and that with <hi>much</hi> adoe. <hi>ibid. vers.</hi> 40, and 43.</p>
+                  <p>Yet Some have <hi>more</hi> then Others: though none <hi>perfectly,</hi> but <hi>sincerely.</hi> Isa. 26.8.</p>
+               </div>
+               <div n="5" type="scruple">
+                  <head>Scruple 5.</head>
+                  <p>
+                     <hi>Have not many so much worldly businesse, that they cannot attain these holy Eja<g ref="char:EOLhyphen"/>culations?</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>These are for them <hi>e<g ref="char:EOLhyphen"/>specially:</hi>
+                     <pb n="26" facs="tcp:170064:22"/>that by them they may have recourse to <hi>God secretly,</hi> because they cannot do it <hi>solemnly.</hi>
+                  </p>
+               </div>
+               <div n="6" type="scruple">
+                  <head>Scruple 6.</head>
+                  <p>
+                     <hi>Some pray Morning and Evening, and never labour for these.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>As a <hi>whelp</hi> following his Master over a style, frisks about the Field, and meets his Master again at the <hi>other</hi> style at the End of the Field: So do these Pray in the Morning, but do rove all day in their Hearts, and then do Pray at Night again.</p>
+                  <pb n="27" facs="tcp:170064:22"/>
+                  <p> But an <hi>ingenuous Childe</hi> goes over the style, runs by his Father over the Field to the other style: So these Christians are an <hi>in<g ref="char:EOLhyphen"/>genuous</hi> People, that keep close to God <hi>all the Day.</hi> see Psalm 25.5. Prov. 23.17.</p>
+               </div>
+               <div n="7" type="scruple">
+                  <head>Scruple 7.</head>
+                  <p>
+                     <hi>It is impossible to attain to this in this World.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>Examples do shew; that as it is no <hi>Novelty:</hi> so 'tis no <hi>Impossibility.</hi>
+                  </p>
+                  <p>
+                     <hi>Enoch walked with God.</hi> Gen. 5.22, 24.</p>
+                  <p>So did <hi>Zachariah</hi>
+                     <pb n="28" facs="tcp:170064:23"/>and his <hi>wife,</hi> Luke 1.6.</p>
+                  <p>And the <hi>Apostles</hi> had their <hi>conversation in Hea<g ref="char:EOLhyphen"/>ven.</hi> Phil. 3.20.</p>
+               </div>
+               <div n="8" type="scruple">
+                  <head>Scruple 8.</head>
+                  <p>
+                     <hi>This is the way to dash all mirth. To be ever pray<g ref="char:EOLhyphen"/>ing, ever setting our selves before God, is to fall to a Me<g ref="char:EOLhyphen"/>lancholy.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p n="1">1. GOD is the <hi>Foun<g ref="char:EOLhyphen"/>tain</hi> of Joy. To have re<g ref="char:EOLhyphen"/>course to Him, is the on<g ref="char:EOLhyphen"/>ly way to be full of Com<g ref="char:EOLhyphen"/>fort.</p>
+                  <p>Those in Heaven are conversant with <hi>God,</hi> and <hi>full</hi> of joy. Psal. 16.11.</p>
+                  <p n="2">
+                     <pb n="29" facs="tcp:170064:23"/> 2. This is the way to attain to the <hi>right use</hi> of Mirth and Recreations.</p>
+                  <p>To be made more heavenly in them: Phil. 4.4.</p>
+                  <p>To be more mode<g ref="char:EOLhyphen"/>rate in their use: <hi>verse</hi> 5.</p>
+                  <p>And better <hi>after</hi> wee have used them.</p>
+                  <p>To be more <hi>fit</hi> for <hi>good</hi> Duties.</p>
+                  <p>And more <hi>prepared</hi> for Heaven, by our wise and holy Carriage in Mirth and Refreshments.</p>
+               </div>
+            </div>
+            <div n="6" type="part">
+               <pb n="30" facs="tcp:170064:24"/>
+               <head>Sixtly, Uses for Edification.</head>
+               <p>And they are these four.</p>
+               <list>
+                  <item>1. <hi>Information.</hi>
+                  </item>
+                  <item>2. <hi>Exhortation.</hi>
+                  </item>
+                  <item>3. <hi>Consolation.</hi>
+                  </item>
+                  <item>4. <hi>Direction.</hi>
+                  </item>
+               </list>
+               <div n="1" type="application">
+                  <head>
+                     <hi>Use</hi> 1. First, for <hi>Infor<g ref="char:EOLhyphen"/>mation.</hi>
+                  </head>
+                  <p>This shewes there is an <hi>inward, hidden, spiritual Life, conversant</hi> with <hi>God;</hi> as well as an <hi>outward, na<g ref="char:EOLhyphen"/>tural</hi> Life, <hi>manifested to men.</hi> 2 Cor. 5.7. <hi>Which inward</hi> Life Christians
+<pb n="31" facs="tcp:170064:24"/>should Aspire after. <hi>Col.</hi> 3.1, 2, 3.</p>
+               </div>
+               <div n="2" type="application">
+                  <head>Use 2. <hi>Exhortation.</hi>
+                  </head>
+                  <p>We should <hi>Use the means</hi> to attain this holy Communion with <hi>God,</hi> by <hi>abstaining</hi> from Sinne and all Evills, which quell and dul the Spirit: as <hi>Earthly<g ref="char:EOLhyphen"/>mindednesse, Excessive love to the World, Sinnes against Conscience, Pride of Heart, Intemperance, Passion, Cold<g ref="char:EOLhyphen"/>nesse in holy Duties.</hi>
+                  </p>
+                  <p>And wee should la<g ref="char:EOLhyphen"/>bour to <hi>nourish</hi> Faith and Love, and <hi>check</hi> our dul<g ref="char:EOLhyphen"/>nesse, and to endeavour to <hi>quicken</hi> our Spirits: We
+<pb n="32" facs="tcp:170064:25"/>should <hi>watch</hi> our Hearts, and <hi>cherish</hi> good Motions, oftentimes answering <hi>good Motions</hi> with <hi>holy Ejacula<g ref="char:EOLhyphen"/>tions,</hi> as when the <hi>Lord</hi> says, <hi>seek my Face:</hi> let our Hearts reply. <hi>Lord, thy face will I seek,</hi> Psalm 27. <hi>ver.</hi> 8.</p>
+               </div>
+               <div n="3" type="application">
+                  <head>Use 3. <hi>Consolation.</hi>
+                  </head>
+                  <p>To shew how <hi>neces<g ref="char:EOLhyphen"/>sary</hi> and <hi>comfortable</hi> these <hi>Ejaculations</hi> are; <hi>ordinary,</hi> as upon all Occasions whatsoever; and <hi>extraor<g ref="char:EOLhyphen"/>dinary,</hi> as at death, and in persecution; when Chri<g ref="char:EOLhyphen"/>stians are brought before Tyrants, they may in their
+<pb n="33" facs="tcp:170064:25"/>Hearts have recourse to GOD, and say, LORD <hi>de<g ref="char:EOLhyphen"/>liver me from this Wolfe.</hi>
+                  </p>
+                  <p>LORD <hi>give me a Mouth and Wisdome to answer.</hi>
+                  </p>
+                  <p>LORD <hi>stand by thy servant.</hi> And the like.</p>
+                  <p>Yet the Enemy knows <hi>nothing,</hi> when <hi>God</hi> knows the <hi>Groanes.</hi>
+                  </p>
+                  <p>So at Death: when Hands do dye, and Eye<g ref="char:EOLhyphen"/>strings do break, and the Vital Spirits (as the last refuge) flee to the Heart: when the Tongue cleaveth to the Roof of the Mouth, and a Christian cannot swallow his spittle; <hi>then</hi> these <hi>Ejaculations</hi> may be
+<pb n="34" facs="tcp:170064:26"/>
+                     <hi>usefull.</hi> And the <hi>Lord</hi> that <hi>searcheth the Heart, knows the Desires</hi> and <hi>inward Groans.</hi>
+                  </p>
+                  <p>Thus they may be use<g ref="char:EOLhyphen"/>full Ordinary and Extra<g ref="char:EOLhyphen"/>ordinary, in Life and in Death; and may be the last service we perform on Eath.</p>
+               </div>
+               <div n="4" type="application">
+                  <head>
+                     <hi>Use</hi> 4. <hi>Direction.</hi>
+                  </head>
+                  <p>To shew some Forms for <hi>daylie practice,</hi> and <hi>re<g ref="char:EOLhyphen"/>newed occasions,</hi> according to the <hi>several</hi> Passages of <hi>Gods Providence.</hi>
+                  </p>
+                  <p>When we awake.</p>
+                  <q>
+                     <p>
+                        <hi>Lord I am still with thee.</hi>
+                     </p>
+                     <bibl>
+                        <pb n="35" facs="tcp:170064:26"/> Psal. 139.18.</bibl>
+                  </q>
+                  <p>When we arise.</p>
+                  <q>
+                     <p>
+                        <hi>Raise me, O Lord, from sin</hi> and <hi>sorrow.</hi>
+                     </p>
+                  </q>
+                  <p>When we apparrell our Selves.</p>
+                  <q>
+                     <p>
+                        <hi>Cloath me, O Lord, with the Righteousnesse of thy Sonne.</hi>
+                     </p>
+                  </q>
+                  <p>When we go forth.</p>
+                  <q>
+                     <p>
+                        <hi>Let thy presence O Lord go with me.</hi>
+                     </p>
+                     <bibl>Exod. 33.15.</bibl>
+                  </q>
+                  <p>When we Return.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, Blesse my Habi<g ref="char:EOLhyphen"/>tation.</hi>
+                     </p>
+                     <bibl>Prov. 3.33.</bibl>
+                  </q>
+                  <pb n="36" facs="tcp:170064:27"/>
+                  <p> At our work.</p>
+                  <q>
+                     <p>
+                        <hi>Blesse, LORD, the work of my hands.</hi>
+                     </p>
+                     <bibl>Psalm. 90.15.</bibl>
+                  </q>
+                  <p>At our meat.</p>
+                  <q>
+                     <p>
+                        <hi>Blessed be thy Provi<g ref="char:EOLhyphen"/>dence. Lord, feed my soul.</hi>
+                     </p>
+                  </q>
+                  <p>When we are to speak.</p>
+                  <q>
+                     <p>
+                        <hi>LORD give me wisdome.</hi>
+                     </p>
+                  </q>
+                  <p>Having Sinned.</p>
+                  <q>
+                     <p>
+                        <hi>LORD, I have done evill.</hi>
+                     </p>
+                  </q>
+                  <p>When we are Dull.</p>
+                  <q>
+                     <p>
+                        <hi>LORD, quicken me. LORD, let thy Spirit re<g ref="char:EOLhyphen"/>vive me.</hi>
+                     </p>
+                  </q>
+                  <pb n="37" facs="tcp:170064:27"/>
+                  <p> When we feele a good Motion.</p>
+                  <q>
+                     <p>
+                        <hi>Lord blesse this motion, and increase it.</hi>
+                     </p>
+                  </q>
+                  <p>In Temptation.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, strengthen thy ser<g ref="char:EOLhyphen"/>vant.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Lord, assist me with thy Grace.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Lord, help me by thy Spi<g ref="char:EOLhyphen"/>rit.</hi>
+                     </p>
+                  </q>
+                  <p>In heavinesse.</p>
+                  <q>
+                     <p>
+                        <hi>Comfort the soul of thy Servant.</hi>
+                     </p>
+                  </q>
+                  <p>When we see the Godly.</p>
+                  <q>
+                     <p>
+                        <hi>Cause me to love all thy Saints.</hi>
+                     </p>
+                  </q>
+                  <pb n="38" facs="tcp:170064:28"/>
+                  <p> When we look on our Child.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, let this Child live a life of grace in thy-sight.</hi>
+                     </p>
+                  </q>
+                  <p>When a Crosse befalls us.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, teach me to profit.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Lord, fit me with Pati<g ref="char:EOLhyphen"/>ence to bear it.</hi>
+                     </p>
+                  </q>
+                  <p>When some come to speak with us.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, blesse the occasi<g ref="char:EOLhyphen"/>on, whatsoever it be.</hi>
+                     </p>
+                  </q>
+                  <p>When wee put off our Clothes.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, teach me to put off the Old Man.</hi>
+                     </p>
+                  </q>
+                  <pb n="39" facs="tcp:170064:28"/>
+                  <p> In Bed.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, bring me to thine eternal Rest.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Let me close mine eyes in thy Favour.</hi>
+                     </p>
+                  </q>
+                  <p>When we meet a Preacher.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, let thy Ministers be clothed with thy Righteous<g ref="char:EOLhyphen"/>nesse.</hi>
+                     </p>
+                  </q>
+                  <p>In Opposition.</p>
+                  <q>
+                     <p>
+                        <hi>Lord, bow their Hearts to Thee.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Lord, restrain them from doing me hurt.</hi>
+                     </p>
+                  </q>
+                  <p>The Occasions are <hi>in<g ref="char:EOLhyphen"/>numerable.</hi> Sometimes in respect of <hi>Sinne:</hi> Some<g ref="char:EOLhyphen"/>times <hi>Mercies</hi> are renewed. Enemies <hi>arise:</hi> or Friends shew <hi>kindnesse.</hi>
+                  </p>
+                  <pb n="40" facs="tcp:170064:29"/>
+                  <p> Comforts are <hi>want<g ref="char:EOLhyphen"/>ing:</hi> or joy <hi>increases.</hi>
+                  </p>
+                  <p>Our Hearts begin to be <hi>dead:</hi> or Grace makes them to <hi>relent.</hi>
+                  </p>
+                  <p>It goes ill with the <hi>Church:</hi> or <hi>good</hi> successe be<g ref="char:EOLhyphen"/>falls them. As a <hi>Cunning</hi> Gamester at Tables; let what Cast come, that can come, He turns it to <hi>fur<g ref="char:EOLhyphen"/>ther</hi> the Game: So, what<g ref="char:EOLhyphen"/>soever befalls us, let us turn it to further our Af<g ref="char:EOLhyphen"/>fections to GOD, and car<g ref="char:EOLhyphen"/>ry these, or the <hi>like Ejacu<g ref="char:EOLhyphen"/>lations</hi> in our Memory.</p>
+                  <q>
+                     <p>
+                        <hi>Remember me, O my God, in goodnesse,</hi>
+                     </p>
+                     <bibl>Neh. 5.19.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Teach me thy Statutes.</hi>
+                     </p>
+                     <bibl>Ps. 119.12.</bibl>
+                  </q>
+                  <q>
+                     <pb n="41" facs="tcp:170064:29"/>
+                     <p>
+                        <hi>Shine on me with thy Fa<g ref="char:EOLhyphen"/>vour.</hi>
+                     </p> see <bibl>Psalm 4.5, 6.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Raise my Soul to Hea<g ref="char:EOLhyphen"/>ven:</hi>
+                     </p> see <bibl>Cant. 1.4.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Fill me with goodnesse.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Increase Grace in me.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Enflame my Heart to love thee.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Shew me the beauty of Holinesse.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Sanctifie me, O Lord, throughout.</hi>
+                     </p>
+                     <bibl>1 Thes. 5.21.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Powre thy holy Spirit upon me.</hi>
+                     </p> See <bibl>
+                        <hi>Joel</hi> 2.28.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>O let me never forget Thee.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Fill me with Joy and Peace in believing.</hi>
+                     </p>
+                     <bibl>Ro. 15.13.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Be Thou the surpassing Sweetnesse of my Soul.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Remember me with the
+<pb n="42" facs="tcp:170064:30"/>Favour of thy People,</hi>
+                     </p>
+                     <bibl>Psalm 106.4.</bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Quicken me according to thy loving-kin dnesse,</hi>
+                     </p>
+                     <bibl>Ps. 119.88.</bibl>
+                  </q>
+                  <p>These, or the like, as <hi>Gods Spirit</hi> shall dictate, will be as <hi>Salt</hi> to keep our Souls from <hi>putrifying.</hi>
+                  </p>
+                  <p>As <hi>God</hi> said to <hi>Elijah,</hi> 1 Kings 19.9.13. <hi>What dost thou here,</hi> EliJah?</p>
+                  <p>So may we say to the <hi>Redeemed</hi> Soul <hi>groveling</hi> about Earth; What dost thou here, thou <hi>Redeemed Soul?</hi>
+                  </p>
+                  <p>
+                     <hi>Awake, Arise, look to thy Maker,</hi> Isai. 17.7. to thy <hi>Redeemer:</hi> let <hi>Him</hi> be thy
+<pb n="43" facs="tcp:170064:30"/>
+                     <hi>Treasure,</hi> thy <hi>Joy,</hi> thy <hi>Sa<g ref="char:EOLhyphen"/>tisfaction,</hi> the <hi>Mirth</hi> of thy <hi>Spirit.</hi>
+                  </p>
+                  <p>
+                     <hi>Arise, my Love, my Sister,</hi> may Christ say.</p>
+                  <p>Arise, my <hi>fair one:</hi> the price of my Bloud: <hi>come, walk in the Galleries of Heaven: seek the things above.</hi> Col. 3.1, 2.</p>
+                  <p>These <hi>Meditations</hi> shall make us to begin our Hea<g ref="char:EOLhyphen"/>ven <hi>here.</hi>
+                  </p>
+               </div>
+               <div type="objection">
+                  <head>Objection.</head>
+                  <p>
+                     <hi>You that have written this, come short of the same your self.</hi>
+                  </p>
+               </div>
+               <div type="resolution">
+                  <head>Resolution.</head>
+                  <p>True, I have but an
+<pb n="44" facs="tcp:170064:31"/>Earnest in respect of the Fulnesse; a <hi>Drop</hi> in respect of the <hi>Ocean:</hi> the <hi>First<g ref="char:EOLhyphen"/>fruits</hi> in respect of the <hi>Har<g ref="char:EOLhyphen"/>vest.</hi>
+                  </p>
+                  <p>Yet it is not with Me, as it was with Her, who said, <hi>Video meliora: deteriora sequor.</hi> I see the better: but follow the worser.</p>
+                  <p>
+                     <hi>But Contrary.</hi>
+                  </p>
+                  <p n="1">1. I blesse God for that measure I have received.</p>
+                  <p n="2">2. I think basely of my self, that it is none other<g ref="char:EOLhyphen"/>wise with me.</p>
+                  <p n="3">3. I think highly of those that go <hi>before me;</hi> on whom God hath bestowed a more <hi>excellent</hi> Spirit.</p>
+                  <p n="4">
+                     <pb n="45" facs="tcp:170064:31"/> 4. I endeavour my self to obtain a <hi>more holy Frame</hi> and Temper of Heart.</p>
+                  <p n="5">5. I use the Means to whet the <hi>inward</hi> Man.</p>
+                  <p>So then, I <hi>follow</hi> the Bet<g ref="char:EOLhyphen"/>ter, I see; though I am <hi>led Captive</hi> to the VVorser, which I do <hi>hate.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb facs="tcp:170064:32"/>
+            <pb n="47" facs="tcp:170064:32"/>
+            <head>Seasonable Directi<g ref="char:EOLhyphen"/>ons to Christians, how to behave them<g ref="char:EOLhyphen"/>selves in these times of Fear and Danger.</head>
+            <p n="1">1. <seg rend="decorInit">L</seg>Et a man now examine him<g ref="char:EOLhyphen"/>self, whether he be in the state of <hi>grace
+<pb n="48" facs="tcp:170064:33"/>or no.</hi> Let us trie our Faith and Repentance. If we will not try our selves, we are like to be tryed; it is our wisdome to do it be<g ref="char:EOLhyphen"/>fore hand, Gal. 6.4. <hi>Let every man prove his own Work.</hi>
+            </p>
+            <p>2 Cor. 13.5. <hi>Examine your selves, whether ye be in the Faith: prove your own selves. Know ye not your own selves, how that Jesus Christ is in you except ye be Reprobates?</hi>
+            </p>
+            <p>1 Cor. 11.31. <hi>For if we would judge our selves, we should not be judged.</hi>
+            </p>
+            <p n="2">2. <hi>We should carefully wean
+<pb n="49" facs="tcp:170064:33"/>our minds from the love of of the World.</hi>
+            </p>
+            <p>A thing hanged on a pin, is easily heaved off, but things glewed together, are hardly sundred: <hi>David</hi> loved <hi>Absolom too much,</hi> which made him so much lament when he <hi>lost</hi> him. <hi>Excessive</hi> Love to the World, will make the Crosse <hi>ten</hi> times the <hi>heavi<g ref="char:EOLhyphen"/>er.</hi>
+            </p>
+            <p>We should <hi>inure</hi> our selves to some Hardnesse: <hi>abate</hi> some things of Food, Ease, Apparrel.</p>
+            <p>A <hi>Delicate</hi> person can <hi>hardly</hi> suffer. See 2 Tim. 4.10. 1 John 2.15, 16, 17.</p>
+            <p n="3">
+               <pb n="50" facs="tcp:170064:34"/> 3. <hi>We should be twice as much exercised in Religious duties as before.</hi>
+            </p>
+            <p>Mat. 26.14, 15, 16, 17. When <hi>Judas</hi> was <hi>plotting;</hi> Christ went to the Passo<g ref="char:EOLhyphen"/>ver. When God comes to <hi>visit,</hi> let him finde us neither <hi>idle</hi> nor <hi>ill employed.</hi> Let us be moved with re<g ref="char:EOLhyphen"/>verence, to use means, to save our Selves, and our Families: See Psalm 32.6, 7. and Isai. 26.20.</p>
+            <p n="4">4. <hi>We should labour to get and keep a good Consci<g ref="char:EOLhyphen"/>ence.</hi>
+            </p>
+            <p>Then though we have Troubles <hi>without;</hi> yet we
+<pb n="51" facs="tcp:170064:34"/>may have Peace <hi>within.</hi>
+            </p>
+            <p>Compare Acts 24.16. with 2 Cor. 1.12. If a good Conscience be our Exercise <hi>now;</hi> it shall be our Joy <hi>hereafter.</hi>
+            </p>
+            <p n="5">5. <hi>Pray, Sue,</hi> and <hi>en<g ref="char:EOLhyphen"/>treate evermore for the Fa<g ref="char:EOLhyphen"/>vour of God.</hi>
+            </p>
+            <p>It will be intolerable to apprehend the wrath of God, and the wrath of Man both at <hi>once:</hi> See, Ps. 55.16, 17. Psalm 145.18, 19. Psalm 143.9.</p>
+            <p n="6">6. <hi>Let us acquaint our selves with Gods Truth,</hi> and <hi>make much of the Pro<g ref="char:EOLhyphen"/>mises.</hi>
+            </p>
+            <p>They being <hi>stored up,</hi>
+               <pb n="52" facs="tcp:170064:35"/>will be as <hi>strong</hi> waters to keep us from <hi>fainting:</hi> and as a <hi>precious</hi> Cordial to <hi>re<g ref="char:EOLhyphen"/>vive</hi> our poor <hi>drooping</hi> Spirits. See 2 Peter 1.4. Psal. 12.5, 6. and 50.15. Jam. 1.12.</p>
+            <p n="7">7. <hi>Get into the Heart the sound and experimentall Knowledge and Love of the Truth.</hi>
+            </p>
+            <p>It is the Truth we are like to <hi>suffer</hi> for: We cannot suffer for that wee do not <hi>know,</hi> much lesse for that we do not <hi>love.</hi> See Psal. 1.1, 2, 3. Psalm 119.92. and v. 165.</p>
+            <p n="8">8 <hi>We should labour to en<g ref="char:EOLhyphen"/>courage and Comfort one a<g ref="char:EOLhyphen"/>nother,
+<pb n="53" facs="tcp:170064:35"/>in these evil Times.</hi>
+            </p>
+            <p>God hath a Book of Re<g ref="char:EOLhyphen"/>membrance, of them that <hi>speak often</hi> one to each o<g ref="char:EOLhyphen"/>ther to trust in his Name. Mal. 3.13. to the end.</p>
+            <p>When men do ask, <hi>VVhat news?</hi> we should Qestion with them; <hi>VVhat shall we do to escape Gods Judgements? To stay his VVrath? Shall we pray? and humble our selves? shall we fast? Shall we become new men? And binde our selves to God, with an ever<g ref="char:EOLhyphen"/>lasting Covenant?</hi>
+            </p>
+            <p n="9">9. <hi>Meditate Terrours. Conceive the worst before hand.</hi>
+            </p>
+            <pb n="54" facs="tcp:170064:36"/>
+            <p> To be fore-warned is to be fore-armed. Get Hope: get Submission: get Pati<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Let us <hi>prepare,</hi> and set our selves in a <hi>readinesse;</hi> think often, a judgment is coming. All the faithfull Ministers give warning: Many of them are taken a<g ref="char:EOLhyphen"/>way, we may fear, from the <hi>Evil to come.</hi>
+            </p>
+            <p>The sword is one our neighbour Nations. Our Stay and Strength is taken away. We give too much way to the <hi>divorcing</hi> sinne of Idolatry. Our Parlia<g ref="char:EOLhyphen"/>ments have been often <hi>dis<g ref="char:EOLhyphen"/>solved.</hi> The Power of Reli<g ref="char:EOLhyphen"/>gion
+<pb n="55" facs="tcp:170064:36"/>is in many places op<g ref="char:EOLhyphen"/>posed.</p>
+            <p>Meditate, as if the Ene<g ref="char:EOLhyphen"/>my had <hi>landed,</hi> or there were <hi>civil</hi> Combustion and Uprore.</p>
+            <p>
+               <hi>The thing I feared</hi> (saith Job) <hi>is come upon me.</hi>
+            </p>
+            <p n="10">10. <hi>Spare not one sin unmor<g ref="char:EOLhyphen"/>tified; keep no beloved Dali<g ref="char:EOLhyphen"/>lab.</hi>
+            </p>
+            <p>The love of <hi>one</hi> Sinne will work us <hi>more</hi> Woe then <hi>all</hi> our Enemies, and will raise <hi>inward</hi> Fears and Doubtings: when o<g ref="char:EOLhyphen"/>thers shall have joy, peace and consolation of Spirit.</p>
+            <p>
+               <hi>Jonas</hi> 1. Till our <hi>Jonas</hi> be thrown over-boord, the
+<pb n="56" facs="tcp:170064:37"/>winds and waves will not make a League with us.</p>
+            <p n="11">11. <hi>We should cast a<g ref="char:EOLhyphen"/>way all confidence in our selves, and in our own strength.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> trusted to him<g ref="char:EOLhyphen"/>self and fell. In his <hi>own might shall no man prevail.</hi> 1 Sam. 2. <hi>Let us be strong in the Lord and in the Power of His might.</hi> Eph. 6.10.</p>
+            <p n="12">12. <hi>We should redeem the time because the days are evill.</hi>
+            </p>
+            <p>Especially from <hi>idle talking,</hi> and speaking of those things which do <hi>not concerne</hi> us, and for speak<g ref="char:EOLhyphen"/>ing whereof may <hi>endanger</hi> us.</p>
+            <pb n="57" facs="tcp:170064:37"/>
+            <p>
+               <hi>The Prudent should keep silence in an evil time:</hi> Am. 5.13. The Adversary may <hi>entrap</hi> us in our Words: therefore take heed <hi>before whom,</hi> and <hi>what,</hi> and <hi>how</hi> you speak.</p>
+            <p n="13">13. <hi>Let our Souls mourn in secret for the sinnes of the Time and Place we live in.</hi>
+            </p>
+            <p>Ezek. 9.4, 5, 6. God has a Pen and Ink-horn to mark the Mourners, as well as a Slaughter-weapon to destroy the sinners. 'Tis better mourning <hi>here</hi> for sin, then <hi>hereafter</hi> for Mi<g ref="char:EOLhyphen"/>sery.</p>
+            <p>We shall do well to re<g ref="char:EOLhyphen"/>deem
+<pb n="58" facs="tcp:170064:38"/>our Time from <hi>ad<g ref="char:EOLhyphen"/>ding</hi> to the sinnes of others, and bestow it in <hi>bewailing</hi> Theirs and our own Pro<g ref="char:EOLhyphen"/>vocations. Then shal we be <hi>marked</hi> among the Mour<g ref="char:EOLhyphen"/>ners, and <hi>hidden</hi> in the day of the LORDS wrath.</p>
+            <p n="14">14. <hi>Let us be often con<g ref="char:EOLhyphen"/>versant with God by Hea<g ref="char:EOLhyphen"/>venly Ejaculations.</hi>
+            </p>
+            <p>Isai. 26.20. We should <hi>enter into our chamber, shut the door, hide our selves, till the indignation passe over.</hi>
+            </p>
+            <p>Let the stream of our thoughts be for Heaven. Let us get under our <hi>Fa<g ref="char:EOLhyphen"/>thers wings,</hi> and say to him, <hi>Thou art my hiding
+<pb n="59" facs="tcp:170064:38"/>place: Thou shalt encom<g ref="char:EOLhyphen"/>passe me about with Songs of deliverance,</hi> Ps. 32.7, 8. <hi>&amp;c.</hi>
+            </p>
+            <p n="15">15. <hi>We should exercise our selves in works of mercy.</hi>
+            </p>
+            <p>
+               <hi>Visit</hi> the Sick: <hi>Give a pertion to Seven and to Eight: for thou knowest not what evil the Lord will bring on the Earth.</hi> Eccles. 11.2. The <hi>mercifull</hi> have the promise to <hi>find mercy:</hi> Mat. 5.</p>
+            <p>
+               <hi>Let us set before our eyes the Joys of Heaven and the Examples of the suffering Saints.</hi>
+            </p>
+            <p>Examples shew us, 'tis no noveltie, nor impossibi<g ref="char:EOLhyphen"/>lity to suffer for Christ
+<pb n="60" facs="tcp:170064:39"/>and the Gospel.</p>
+            <p>
+               <hi>Paul</hi> overlooks the <hi>light</hi> Afflictions, and sees the <hi>weighty</hi> Glory. 2 Cor. 4.17.</p>
+            <p>
+               <hi>Moses</hi> had an eye to the Recompence of Reward. <hi>Heb.</hi> 11.35. Read the whole Chapter, see how Faith breaks through <hi>all</hi> Troubles.</p>
+            <p>
+               <hi>Look to</hi> Jesus Christ <hi>the Auther and Finisher of Faith, who for the Joy set before Him, endured the Crosse, despised the Shame, &amp;c.</hi> Heb. 12.1, 2.</p>
+            <p>Let us <hi>Remember</hi> and <hi>Consider</hi> that our <hi>momenta<g ref="char:EOLhyphen"/>nie</hi> troubles shall be recom<g ref="char:EOLhyphen"/>penced with <hi>everlasting</hi> Re<g ref="char:EOLhyphen"/>freshments.</p>
+            <div type="part">
+               <pb n="61" facs="tcp:170064:39"/>
+               <head>These will not stand in Times of Trou<g ref="char:EOLhyphen"/>ble.</head>
+               <p n="1">1. <seg rend="decorInit">T</seg>Hose which doe <hi>slight</hi> God and Religion in their Peace and Prospetity, will never for God and Re<g ref="char:EOLhyphen"/>ligin <hi>suffer</hi> Adversitie.</p>
+               <p n="2">2. Those which stand not against Error and False Doctrine, pleading with their Mouthes; will hardly for the truth part with their Bloud.</p>
+               <p n="3">
+                  <pb n="62" facs="tcp:170064:40"/> 3. Those which serve God now, being moved only by the praise of Men, will <hi>leave</hi> the service of God, when men <hi>disgrace</hi> them.</p>
+               <p n="4">4. Those which can<g ref="char:EOLhyphen"/>not endure the <hi>smaller</hi> Try<g ref="char:EOLhyphen"/>als, will <hi>much lesse</hi> stand in the <hi>greater. Jer.</hi> 12.5. <hi>If thou hast run with Foot-men and they have wearied thee, how then wilt thou be able to contend with Horse-men?</hi>
+               </p>
+               <p n="5">5. Those which can<g ref="char:EOLhyphen"/>not suffer the power of the Word, to come into their <hi>Hearts,</hi> will not for the Truth of the Word lay down their <hi>Lives.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170064:40"/>
+         </div>
+      </body>
+   </text>
+</TEI>
